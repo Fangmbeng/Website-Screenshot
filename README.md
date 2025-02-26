@@ -1,5 +1,5 @@
 "# Website-Screenshot" 
-### Repository Name:  
+### Application Name:  
 **midjourney-screenshot-bot**  
 
 ### Description:  
